@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋 I'm Michael Felisco
 
-<!--
-**mikelfelis/mikelfelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a focus on PHP/Laravel,Javascript/Vue.js and MySQL. I love creating interactive and user-friendly web applications. Currently, I'm exploring React, Python and AI.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: HTML, CSS, JavaScript, Vue.js
+- Backend: PHP, Laravel
+- Database: MySQL
+- Other: Git, RESTful APIs, Responsive Design
+
+## 🚀 Projects
+
+### Project 1
+- An online gravesite visiting application, where you can visit your dead love ones or acquintances and send them flowers.
+- Technologies used: [Laravel, Vue,js, MySQL]
+
+Check out my [portfolio](mikelfelis.github.io/) for more projects!
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/michael-felisco/)
+- [Portfolio](mikelfelis.github.io/)
+- Email: mikelfelisco@gmail.com
+
+Feel free to reach out for collaboration, job opportunities, or just to say hi! 😊
