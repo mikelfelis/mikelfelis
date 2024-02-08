@@ -15,7 +15,7 @@ I'm a passionate web developer with a focus on PHP/Laravel,Javascript/Vue.js and
 - An online gravesite visiting application, where you can visit your dead love ones or acquintances and send them flowers.
 - Technologies used: [Laravel, Vue,js, MySQL]
 
-Check out my [portfolio](mikelfelis.github.io/) for more projects!
+Check out my [portfolio](https://mikelfelis.github.io/) for more projects!
 
 ## 📫 Contact Me
 
